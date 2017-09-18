@@ -32,17 +32,10 @@ class: center, middle
 
 ## <img width="219" alt="screen shot 2017-09-17 at 9 02 28 pm" src="https://user-images.githubusercontent.com/31671465/30526622-99488f28-9beb-11e7-9097-42b8f29ac6f5.png">
   
-
   
 ## Example 2: Amazon Echo Turns Lifestyle into Market Data
 
-## <img width="263" alt="screen shot 2017-09-17 at 9 02 23 pm" src="https://user-images.githubusercontent.com/31671465/30526623-9c1914ac-9beb-11e7-98a8-ebdba84b9901.png">
-
-This slide deck was written in HTML.
-
-The slides themselves were written in Markdown incorporated into the HTML file.
-
-The slides you are seeing are rendered using remark.js <https://remarkjs.com/downloads/remark-latest.min.js>    
+## <img width="263" alt="screen shot 2017-09-17 at 9 02 23 pm" src="https://user-images.githubusercontent.com/31671465/30526623-9c1914ac-9beb-11e7-98a8-ebdba84b9901.png">  
             
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
@@ -52,6 +45,3 @@ The slides you are seeing are rendered using remark.js <https://remarkjs.com/dow
     </script>
   </body>
 </html>
-  
-  
- 
