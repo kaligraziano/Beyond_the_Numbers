@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Example HTML Slide Deck</title>
-    <meta charset="utf-8">
-    <style>
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-    </style>
-  </head>
-  <body>
-    <textarea id="source">
-
 # Extract 77 - Beyond the Numbers
   By: Kali Graziano and Raphael Jafri
   
@@ -36,15 +24,6 @@ Example 2: Amazon Echo records everything a person says
 
   <img width="263" alt="screen shot 2017-09-17 at 9 02 23 pm" src="https://user-images.githubusercontent.com/31671465/30526623-9c1914ac-9beb-11e7-98a8-ebdba84b9901.png">
   
-  
-    </textarea>
-    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
-    </script>
-    <script>
-      var slideshow = remark.create();
-    </script>
-  </body>
-</html>
   
   
   
